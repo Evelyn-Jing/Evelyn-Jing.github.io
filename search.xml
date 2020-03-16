@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>numpy</title>
+    <url>/2020/03/16/numpy/</url>
+    <content><![CDATA[<p>NumPy can help us store and manipulate data more efficiently. It can create arrays, get single elements from arrays, stitch and split arrays and much more. But with its so many functions, it brings a big problem, which is to remember every command statement, its format and its meaning. The teacher’s advice to us is: You can form muscle memory through a lot of practice, and it will be much simpler.</p>
+<p>When I first came into contact with NumPy, it was actually a bit unsuitable to me, because NumPy and Python actually have some difference. For example, in NumPy, you need to type “import NumPy as np” in the first sentence, otherwise the code will not run.</p>
+<p>Another important point is that unlike Python, NumPy arrays are of a fixed type. If you add a floating type directly to an integer array as in the following figure, the floating type will be automatically truncated to an integer type. And it will not give you tips or warnings.<img src="file:////Users/youxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png" alt="img"></p>
+<p>Why writes code? Because there is too much data. Indeed, NumPy can help us process data and visualize it.</p>
+<p><img src="file:////Users/youxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png" alt="img"></p>
+<p>For example, here is a histogram of the number of rainy days by using matplotlib. The histogram shows the meaning of the data and makes it easier to analyze the general situation of precipitation.</p>
+<p><img src="file:////Users/youxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png" alt="img"></p>
+<p><img src="file:////Users/youxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png" alt="img"></p>
+<p>There is an array of two-dimensional normally distributed points. These points are visualized with a scatter plot (picture1). 20 points are randomly selected, and the selected points are marked with a large circle on the picture (picture2). This method is often used to quickly segment data, test data to verify statistical models, and use it in sampling methods when answering statistical questions.</p>
+]]></content>
+  </entry>
+  <entry>
     <title>python1</title>
     <url>/2020/03/06/python1/</url>
     <content><![CDATA[<p>In January 2020, the beginning of the winter vacation also meant that my python learning journey began.</p>
