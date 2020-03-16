@@ -20,10 +20,10 @@
     <content><![CDATA[<p>In January 2020, the beginning of the winter vacation also meant that my python learning journey began.</p>
 <p>After a period of learning, I found that python is really very useful and practical. It can help us do a lot of things. It can be closely related to our study and life.</p>
 <p>For example, it can help us judge our grade, which is a code that automatically judges the grade based on our score.</p>
-<p><img src="file:////Users/youxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png" alt="img"></p>
+<p><a href="https://imgchr.com/i/8tMPKK" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/03/17/8tMPKK.png" alt="8tMPKK.png"></a></p>
 <p>If you enter your score: 85 (your input is 85), then it will tell you your grade is A(the output is A).</p>
 <p>Let us look at another code. This code is also very interesting because it is a bit like the code lock in our real life.</p>
-<p><img src="file:////Users/youxin/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png" alt="img"></p>
+<p><a href="https://imgchr.com/i/8tM9v6" target="_blank" rel="noopener"><img src="https://s1.ax1x.com/2020/03/17/8tM9v6.png" alt="8tM9v6.png"></a></p>
 <p>First of all, you need to answer who you are. When you confirm your identity (your input is Joe), you can enter the next question (it will say ‘Hello, Joe. What is the password? (It is a fish.)’, then you can enter the password (input your answer). If you enter the correct password (swordfish), it will display ‘Access granted.’ However, if you make a mistake three times (three times of input are not ‘swordfish’), it will break and display ‘Please try again.’</p>
 <p>In addition, python gives me the biggest feeling is that we must be careful, pay attention to Chinese and English characters, spaces, alignment, etc. Any inconspicuous mistake will cause the entire programming to fail, so we must always practice more and type the code more hands Try a lot. Having a try and then correct the errors is an important part of python learning.</p>
 ]]></content>
